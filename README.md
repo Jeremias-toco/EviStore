@@ -1,18 +1,3 @@
-# evistore
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # EviStore
-# EviStore
+
+EviStore é uma plataforma de comércio electrônico que facilita a compra e venda de produtos e serviço entre consumidores e empresas online.Oferece aos clientes uma maneira conveniente e eficiente de acessar e interagir com a loja online a partir de dispositivos móveis.
